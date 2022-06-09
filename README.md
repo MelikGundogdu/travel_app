@@ -1,16 +1,13 @@
 # travel_app
 
-A new Flutter project.
+GEZİ UYGULAMASI
 
-## Getting Started
+## Projenin Tanıtımı
 
-This project is a starting point for a Flutter application.
+Bu oroje flutter ile kodlanmıştır.
+Oturum açma kayıt olma işlemleri firebase kullanılarak yapıldı.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Uygulamanın GIF linki
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://media.giphy.com/media/02pMM8nHsf5t5GFnaX/giphy.gif)
