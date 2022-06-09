@@ -4,7 +4,8 @@ GEZİ UYGULAMASI
 
 ## Projenin Tanıtımı
 
-Bu oroje flutter ile kodlanmıştır.
+Bu proje flutter ile kodlanmıştır.
+
 Oturum açma kayıt olma işlemleri firebase kullanılarak yapıldı.
 
 
