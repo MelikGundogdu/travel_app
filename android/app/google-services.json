@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776687466576",
+    "project_id": "fir-travelapp-ab7e0",
+    "storage_bucket": "fir-travelapp-ab7e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776687466576:android:335a8c33dd39efccff7955",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776687466576-utbgodpvuln0urkmm9g1a0v14lucl278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAQlZt8QvoKxCR54-WfpP1kp1J7cmECA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776687466576-utbgodpvuln0urkmm9g1a0v14lucl278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
